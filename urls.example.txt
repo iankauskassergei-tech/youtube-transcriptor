@@ -1,0 +1,5 @@
+# Один URL или video ID на строку. Строки с # игнорируются.
+# Примеры:
+# https://www.youtube.com/watch?v=jNQXAC9IVRw
+# https://youtu.be/jNQXAC9IVRw
+# jNQXAC9IVRw
